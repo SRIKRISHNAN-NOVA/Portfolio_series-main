@@ -21,7 +21,7 @@ export const profile = {
   phone: '+91 9150789619',
   email: 'srikrishnan194@gmail.com',
   links: {
-    linkedin: 'https://linkedin.com/in/srikrishnan-sr',
+    linkedin: 'https://www.linkedin.com/in/srikrishnan-sr-b73371365',
     github: 'https://github.com/SRIKRISHNAN-NOVA',
   },
   resumePdf: '/assets/Srikrishnan_SR_Resume.pdf',
@@ -281,10 +281,10 @@ export const achievements: Achievement[] = [
 export type Certification = { issuer: string; name: string; link: string };
 
 export const certifications: Certification[] = [
-  { issuer: 'OpenAI / Data Analysis', name: 'ChatGPT for Data Analysis', link: 'https://linkedin.com/in/srikrishnan-sr' },
-  { issuer: 'PostgreSQL', name: 'PostgreSQL Certification', link: 'https://linkedin.com/in/srikrishnan-sr' },
-  { issuer: 'MSME', name: 'Basic Python Programming - MSME', link: 'https://linkedin.com/in/srikrishnan-sr' },
-  { issuer: 'IBM', name: 'Quantum Computing – IBM', link: 'https://linkedin.com/in/srikrishnan-sr' },
+  { issuer: 'OpenAI / Data Analysis', name: 'ChatGPT for Data Analysis', link: 'https://www.linkedin.com/in/srikrishnan-sr-b73371365' },
+  { issuer: 'PostgreSQL', name: 'PostgreSQL Certification', link: 'https://www.linkedin.com/in/srikrishnan-sr-b73371365' },
+  { issuer: 'MSME', name: 'Basic Python Programming - MSME', link: 'https://www.linkedin.com/in/srikrishnan-sr-b73371365' },
+  { issuer: 'IBM', name: 'Quantum Computing – IBM', link: 'https://www.linkedin.com/in/srikrishnan-sr-b73371365' },
 ];
 
 export type Skill = { name: string; mono: string; note?: string };
